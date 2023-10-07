@@ -8,8 +8,15 @@
 
 # API de Produtos
 
-POST	/products	Cadastra um produto
-GET	/products	Retorna uma lista de produtos
-GET	/products/{id}	Retorna o produto por id
-DELETE	/products/{id}	Deleta produto por id
-UPDATE	/products/{id}	Atualiza o produto por id
+# Endpoints
+
+URL Base: `localhost:8080
+URL Banco em memoria URL Base: `localhost:8080/h2-console
+
+| Tipo | URI | Função
+
+|POST|/products|Cadastra um produto
+|GET|/products|Retorna uma lista de produtos
+|GET|/products/{id} |Retorna o produto por id
+|DELETE|/products/{id}|Deleta produto por id
+|UPDATE|/products/{id}|Atualiza o produto por id
