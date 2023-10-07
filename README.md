@@ -1,12 +1,12 @@
 # crud-spring-boot-java
-Desafio CRUD
-O desafio foi proposto para aplicar os conhecimentos Java utilizando Spring Boot no projeto
+# Desafio CRUD
+# O desafio foi proposto para aplicar os conhecimentos Java utilizando Spring Boot no projeto
 
-Ferramentas/tecnologias utilizadas
+# Ferramentas/tecnologias utilizadas
 
 | Boas praticas | Ferramentas| |--|--|. |Github Projects, Inteij Comunity,Java 17, Maven, SpringWeb, Spring Dev Tools, Spring Data JPA, utilizado um banco de dados em memória com H2 Database
 
-API de Produtos
+# API de Produtos
 
 POST	/products	Cadastra um produto
 GET	/products	Retorna uma lista de produtos
